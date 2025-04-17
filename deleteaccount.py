@@ -1,2 +1,2 @@
 def delaccount():
-    pass
+    print('hello')
